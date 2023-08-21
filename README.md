@@ -42,7 +42,10 @@
    ```
    
 ## Usage
--GET `http://laravelreactapi.mikehuynhportfolio.com/public/api/projects` Retrieve data from Experience Table.
+-GET ```http://laravelreactapi.mikehuynhportfolio.com/public/api/projects``` Retrieve data from Project Table.
+-GET ```http://laravelreactapi.mikehuynhportfolio.com/public/api/skills``` Retrieve data from Skill Table.
+-GET ```http://laravelreactapi.mikehuynhportfolio.com/public/api/about``` Retrieve data from About Table.
+-GET ```http://laravelreactapi.mikehuynhportfolio.com/public/api/experience``` Retrieve data from Experience Table.
 
 ## Contributing
 Guidelines for contributing to the project, how to set up a development environment, and submission process.
