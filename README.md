@@ -8,7 +8,7 @@
 - [License](#license)
 
 ## Features
-- List key features here
+- ###Schema Migration: The project includes well-structured schema migrations for essential entities like Project, About, Skill, and Experience. These migrations facilitate the creation of corresponding database tables.
 
 ## Getting Started
 1. Installation instructions
