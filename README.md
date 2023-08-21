@@ -42,7 +42,7 @@
    ```
    
 ## Usage
-Explain how to use the project and provide code examples.
+    -GET `http://laravelreactapi.mikehuynhportfolio.com/public/api/projects` Retrieve data from Experience Table.
 
 ## Contributing
 Guidelines for contributing to the project, how to set up a development environment, and submission process.
