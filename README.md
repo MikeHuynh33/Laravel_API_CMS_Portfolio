@@ -18,9 +18,12 @@
 - Database seeders are provided to populate initial data into the database. This ensures a functional starting point for managing your portfolio content.
 
 ## Getting Started
-1. Installation instructions
-2. Configuration steps
-3. How to run the project
+1. Clone
+   ''''
+   git clone https://github.com/your-username/Laravel_API_CMS_Portfolio.git
+   ''''
+3. Configuration steps
+4. How to run the project
 
 ## Usage
 Explain how to use the project and provide code examples.
