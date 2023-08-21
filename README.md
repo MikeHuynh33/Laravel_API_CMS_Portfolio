@@ -47,8 +47,8 @@
 - GET http://laravelreactapi.mikehuynhportfolio.com/public/api/about Retrieve data from About Table.
 - GET http://laravelreactapi.mikehuynhportfolio.com/public/api/experience Retrieve data from Experience Table.
 
-##Deploy
-    - I hosted this project in Hostinger , I utilized myphpAdmin database and subdomain.
+## Deploy
+- I hosted this project in Hostinger , I utilized myphpAdmin database and subdomain.
     
 ## Contributing
 Guidelines for contributing to the project, how to set up a development environment, and submission process.
