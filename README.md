@@ -21,10 +21,26 @@
 1. Clone
    ```
    git clone https://github.com/your-username/Laravel_API_CMS_Portfolio.git
+   cd Laravel_API_CMS_Portfolio
    ```
-3. Configuration steps
-4. How to run the project
-
+2. Install Composer dependencies:
+   ```
+   composer install
+   ```
+3. Edit .env based on myphpAdmin or Database connection infor.
+4. Migrate the database schema:
+   ```
+   php artisan migrate
+   ```
+5. Seeder (ExperienceSeeder,AboutSeeder,SkillSeeder,ProjectSeeder)
+   ```
+   php artisan db:seed --NameOfSeeder
+   ```
+6. Serve the application:
+    ```
+   php artisan serve
+   ```
+   
 ## Usage
 Explain how to use the project and provide code examples.
 
