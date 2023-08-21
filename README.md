@@ -49,7 +49,7 @@
 
 ## Deploy
 - I hosted this project in Hostinger , I utilized myphpAdmin database and subdomain.
-- I genegrated SSH connection with git base to run composer command-line.
+- I generated SSH connection with git base to run composer command-line.
     
 ## Contributing
 Guidelines for contributing to the project, how to set up a development environment, and submission process.
