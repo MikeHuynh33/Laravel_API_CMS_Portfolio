@@ -19,9 +19,9 @@
 
 ## Getting Started
 1. Clone
-   ''''
+   ```
    git clone https://github.com/your-username/Laravel_API_CMS_Portfolio.git
-   ''''
+   ```
 3. Configuration steps
 4. How to run the project
 
